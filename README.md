@@ -1,7 +1,7 @@
 # CLOUD-DATA-STORAGE-SERVER
 
-### NAME: Stephen raj Y
-### REG NO: 212223230217
+### NAME: Lothika M
+### REG NO: 212225040211
 
 ## Aim
 
